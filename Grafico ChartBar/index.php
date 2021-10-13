@@ -46,7 +46,7 @@
     
     <script type="text/javascript">
         var ctx = document.getElementById('myChart').getContext('2d');
-        var myLineChart = new Chart(ctx, {
+        var ChartBar = new Chart(ctx, {
                type: 'bar',
                data: {
                     labels:[<?php echo $mes ?>],
