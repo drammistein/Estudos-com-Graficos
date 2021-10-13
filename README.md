@@ -1,2 +1,2 @@
-# Estudos-com-Graficos
+# Estudos-com-Gráficos
 Estudos de Dashboard
